@@ -47,9 +47,9 @@
     "express": "^4.17.1",
     "knex": "^0.21.5",
     "knex-stringcase": "^1.4.5",
-    "pg": "8.2.1",
+    "pg": "8.4.0",
     "prom-client": "^12.0.0",
-    "semver": "^7.3.2",
+    "semver": "^7.5.2",
     "typescript": "^3.9.5"
   },
   "devDependencies": {
